@@ -18,6 +18,6 @@ Support Vector Classifier using the Linear, Polynomial and RBF kernels on differ
 
 # Requirements
 
-numpy == 1.19.2
-sklearn == 0.23.2
+numpy == 1.19.2     
+sklearn == 0.23.2    
 pandas == 1.1.3
