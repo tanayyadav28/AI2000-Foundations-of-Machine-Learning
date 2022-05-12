@@ -8,7 +8,7 @@ perplexity and iterations.
 
 # Requirements
 
-matplotlib == 3.3.2
+matplotlib == 3.3.2    
 numpy == 1.19.2   
 sklearn == 0.23.2    
 pandas == 1.1.3  
